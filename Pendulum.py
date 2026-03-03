@@ -127,3 +127,4 @@ while not finished:
     mayatnick.time += dt
     draw_parameters(mayatnick)
     pygame.display.update()
+
